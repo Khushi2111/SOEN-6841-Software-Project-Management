@@ -1,4 +1,4 @@
-## 💻 Welcome to SOEN 6481- Software Project Management
+## 💻 SOEN 6481- Software Project Management
 
 Author: Khushi Parikh
 
